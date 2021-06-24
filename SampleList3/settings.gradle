@@ -1,0 +1,2 @@
+rootProject.name = "SampleList3"
+include ':app'
